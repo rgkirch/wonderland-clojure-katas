@@ -3,5 +3,6 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.9.0"]]
+  :dependencies [[org.clojure/clojure "1.9.0"]
+                 [meander/epsilon "0.0.650"]]
   :main fox-goose-bag-of-corn.puzzle)
